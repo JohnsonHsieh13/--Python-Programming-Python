@@ -1,0 +1,8 @@
+.env
+*.pem
+!cert.pem
+*.key
+*.crt
+*.p12
+*.token
+*.docx
